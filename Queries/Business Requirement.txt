@@ -1,0 +1,73 @@
+1)Which customers placed the most orders
+
+2)What is the average customer spend per order?
+
+3) Determines how much customers typically spend.
+
+4)Which customers have made only one purchase?
+
+
+5)Who are the most loyal customers based on repeat purchases?
+
+6) What are the top-selling products?
+
+7)Which products are underperforming?
+
+
+8) What are the best-selling product categories?
+
+9)Which products need stock replenishment?
+
+
+
+10)Which product category contributes most to revenue?
+
+
+11) Which store has the highest revenue?
+
+
+12)What is the average transaction value per store?
+
+
+13) Which region generates the most revenue?
+
+
+14)What is the profit margin per region?
+
+
+15)Monthly revenue trends over the last year
+
+16)Year-over-Year Sales Growth
+
+
+17) Hourly sales distribution ?
+
+18) Profitability by product?
+
+
+
+19) Profit margin comparison between categories
+
+
+20) Age-wise purchase patterns
+
+
+21. How does the yearly revenue trend compare across different years?
+
+22. What is the peak sales hour in a typical day?
+
+23. Which store has the highest number of transactions per day?
+
+24. What is the total discount amount given to customers in the last quarter?
+
+25. Which product has the highest return rate?
+
+26. How does the revenue vary across weekdays versus weekends?
+
+27. What is the best-selling product for each region?
+
+28. Which customer segment generates the highest revenue?
+
+29. What is the profit-to-revenue ratio for different product categories?
+
+30. Which product saw the highest percentage increase in sales compared to the previous year?
